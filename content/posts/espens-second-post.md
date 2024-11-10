@@ -1,6 +1,7 @@
 ---
 title: "Espens second post title"
-date: 2024-11-10T14:44:00+02:00
+date: 2024-11-01
+lastmod: 2024-11-11
 draft: false
 ---
 
