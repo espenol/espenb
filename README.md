@@ -14,3 +14,8 @@ this.
 
 TODO: write blog post about å bruke mindre tid foran skjermen, bruke
 smarttelefon som verktøy
+
+## Note
+
+For free GitHub users, repository must remain public or else the GitHub Pages
+link will be disabled
