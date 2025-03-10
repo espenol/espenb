@@ -1,14 +1,18 @@
 ---
-title: "Espens second post title"
-date: 2024-11-01
-lastmod: 2024-11-11
+title: "Espens første blogginnlegg"
+date: 2025-03-10
+lastmod: 2025-03-10
 draft: false
 ---
 
-# Hello there
+# Blogg
 
-Testing hugo nr 2
+Eg har fått mi eiga nettside til å blogge på. Foreløpig navn er Espenblogg, så
+kreativ er eg.
 
-## Learning is fun
+Eg kjenner litt på at det er rart å ha ein blogg. Er det ikkje berre
+rosabloggarar og raringer som blogger? Kanskje det stemmer, men eg har
+lenge vore fascinert av mange profiler på Y Combinator sin Hacker News, og alt
+innholdet folk der legger ut heilt gratis og av høg kvalitet.
 
-I'm learning Hugo.
+Kjem meir her seinare.
